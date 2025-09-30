@@ -1,0 +1,21 @@
+Mainprogram
+Data
+Int16_t aa0, bb0, xx0, yy0;
+
+Start
+Input aa0;
+Input bb0;
+
+Output aa0 + bb0;
+Output aa0 - bb0;
+Output aa0 Mul bb0;
+Output aa0 Div bb0;
+Output aa0 Mod bb0;
+
+aa0 0 bb0 Mul 10 + aa0 + bb0 Div 10 -> xx0;
+xx0 + xx0 Mod 10 -> yy0;
+
+Output xx0;
+Output yy0;
+
+End
