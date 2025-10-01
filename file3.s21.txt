@@ -7,7 +7,7 @@ Start
 
 aa0 -> ii0;
 lc0:
-If (ii0 < bb0)){
+If (ii0 < bb0){
      Goto lc0
 }
 
