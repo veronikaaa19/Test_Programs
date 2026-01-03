@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|solutionrelative:one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file1.s21||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|solutionrelative:file1.s21||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file2.s21||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|solutionrelative:file2.s21||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file3.s21||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A247F6A-CD2A-4A0F-8925-9B11ED812C65}|EBNFverifyExemple.vcxproj|solutionrelative:file3.s21||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file3.s21",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file3.s21",
+              "RelativeDocumentMoniker": "file3.s21",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file3.s21",
+              "RelativeToolTip": "file3.s21",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T15:22:28.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file2.s21",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file2.s21",
+              "RelativeDocumentMoniker": "file2.s21",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file2.s21",
+              "RelativeToolTip": "file2.s21",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T15:21:42.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file1.s21",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file1.s21",
+              "RelativeDocumentMoniker": "file1.s21",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\file1.s21",
+              "RelativeToolTip": "file1.s21",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T15:21:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "one_file__x86_Debug.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\one_file__x86_Debug.cpp",
+              "RelativeDocumentMoniker": "one_file__x86_Debug.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\EBNFverifyExemple-COMPLETED\\EBNFverifyExemple-COMPLETED\\one_file__x86_Debug.cpp",
+              "RelativeToolTip": "one_file__x86_Debug.cpp",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwLkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-26T07:44:52.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
