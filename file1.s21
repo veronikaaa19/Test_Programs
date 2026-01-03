@@ -12,7 +12,7 @@ Output aa0 Mul bb0;
 Output aa0 Div bb0;
 Output aa0 Mod bb0;
 
-aa0 0 bb0 Mul 10 + aa0 + bb0 Div 10 -> xx0;
+aa0 - bb0 Mul 10 + aa0 + bb0 Div 10 -> xx0;
 xx0 + xx0 Mod 10 -> yy0;
 
 Output xx0;

@@ -12,7 +12,7 @@ mm0 -> aa0
 } Else If (bb0 > aa0) && (bb0 > cc0){
 mm0 -> bb0
 } Else{
-mm0 -> cco
+mm0 -> cc0
 }
 Output mm0
 
