@@ -1,0 +1,44 @@
+Mainprogram
+Data
+Int16_t aa0, bb0, ii0, jj0, xx0;
+Start
+    Input aa0;
+    Input bb0;
+
+aa0 -> ii0;
+1 -> jj0;
+lc0:
+If (ii0 > bb0){
+     Goto ed2
+}
+
+Output (ii0 Mul jj0)
+ii0 + 1 -> ii0
+Goto lc0
+
+ed2:
+
+0 -> xx0;
+1 -> ii0;
+la0:
+If (ii0 > aa0){
+    Goto ed0
+}
+1 -> jj0;
+lb0:
+   If (bb0 < jj0){
+   Goto ed1
+}
+xx0 + 1 -> xx0;
+jj0 + 1 -> jj0;
+Goto lb0
+
+ed1:
+ii0 + 1 -> ii0
+Goto la0
+
+ed0:
+
+Output xx0;
+
+End

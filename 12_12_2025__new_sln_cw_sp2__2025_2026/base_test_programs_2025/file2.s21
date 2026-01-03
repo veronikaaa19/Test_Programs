@@ -1,0 +1,37 @@
+Mainprogram
+Data
+Int16_t aa0, bb0, cc0, mm0;
+
+Start
+Input aa0;
+Input bb0;
+Input cc0;
+
+If (aa0 > bb0) && (aa0 > cc0){
+mm0 -> aa0
+} Else If (bb0 > aa0) && (bb0 > cc0){
+mm0 -> bb0
+} Else {
+mm0 -> cc0
+}
+Output mm0
+
+If (aa0 Eg bb0) && (aa0 Eg cc0) && (bb0 Eg cc0){
+Output (1)
+} Else {
+Output (0)
+}
+
+If (aa0 < 0) || (bb0 < 0) || (cc0 < 0){
+Output (-1)
+} Else{
+Output (0)
+}
+
+If !!(aa0 < (bb0 + cc0)){
+Output (10)
+} Else{
+Output (0)
+}
+
+End

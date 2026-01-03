@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dfa_generator__2025\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|solutionrelative:dfa_generator__2025\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\USERS\\DELL\\ONEDRIVE\\\u0420\u041E\u0411\u041E\u0427\u0418\u0419 \u0421\u0422\u0406\u041B\\12_12_2025__NEW_SLN_CW_SP2__2025_2026\\12_12_2025__NEW_SLN_CW_SP2__2025_2026\\VARIANT_SPECIFICATION\\LEXICABYREGEXANDSYNTAXBYLL2PROTOTOTYPE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:VARIANT_SPECIFICATION\\LEXICABYREGEXANDSYNTAXBYLL2PROTOTOTYPE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\USERS\\DELL\\ONEDRIVE\\\u0420\u041E\u0411\u041E\u0427\u0418\u0419 \u0421\u0422\u0406\u041B\\12_12_2025__NEW_SLN_CW_SP2__2025_2026\\12_12_2025__NEW_SLN_CW_SP2__2025_2026\\VARIANT_SPECIFICATION\\EBNF_N2.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:VARIANT_SPECIFICATION\\EBNF_N2.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\USERS\\DELL\\ONEDRIVE\\\u0420\u041E\u0411\u041E\u0427\u0418\u0419 \u0421\u0422\u0406\u041B\\12_12_2025__NEW_SLN_CW_SP2__2025_2026\\12_12_2025__NEW_SLN_CW_SP2__2025_2026\\VARIANT_SPECIFICATION\\EBNF_N1.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:VARIANT_SPECIFICATION\\EBNF_N1.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base_test_programs_2025\\file3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base_test_programs_2025\\file2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base_test_programs_2025\\file1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base_test_programs_2025\\file1.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file3.s21||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|solutionrelative:base_test_programs_2025\\file3.s21||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file2.s21||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|solutionrelative:base_test_programs_2025\\file2.s21||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.s21||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|solutionrelative:base_test_programs_2025\\file1.s21||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\Grammar_ANSI.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|solutionrelative:built_doc\\Grammar_ANSI.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|solutionrelative:dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\main_spirit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF_nonpacked__2025\\main_spirit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\NPDA_UNICODE.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|solutionrelative:built_doc\\NPDA_UNICODE.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\NPDA_ANSI.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|solutionrelative:built_doc\\NPDA_ANSI.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\Grammar_UNICODE.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27A7E02D-4A28-484A-9A4D-DA5F4A83CD73}|dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.vcxproj|solutionrelative:built_doc\\Grammar_UNICODE.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|solutionrelative:dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBNF_N2.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\variant_specification\\EBNF_N2.h",
+              "RelativeDocumentMoniker": "variant_specification\\EBNF_N2.h",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\variant_specification\\EBNF_N2.h",
+              "RelativeToolTip": "variant_specification\\EBNF_N2.h",
+              "ViewState": "AgIAADoBAAAAAAAAAAAuwFUBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-02T16:10:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "file3.c",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file3.c",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file3.c",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file3.c",
+              "RelativeToolTip": "base_test_programs_2025\\file3.c",
+              "ViewState": "AgIAACoBAAAAAAAAAAAIwDcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-02T15:50:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "file2.c",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file2.c",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file2.c",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file2.c",
+              "RelativeToolTip": "base_test_programs_2025\\file2.c",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAIwGABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-02T15:49:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "file1.asm",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.asm",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file1.asm",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.asm",
+              "RelativeToolTip": "base_test_programs_2025\\file1.asm",
+              "ViewState": "AgIAAEoCAAAAAAAAAAAwwGICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T15:45:48.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "file1.c",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.c",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file1.c",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.c",
+              "RelativeToolTip": "base_test_programs_2025\\file1.c",
+              "ViewState": "AgIAALwAAAAAAAAAAAAIwNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-02T15:44:25.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "file3.s21",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file3.s21",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file3.s21",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file3.s21",
+              "RelativeToolTip": "base_test_programs_2025\\file3.s21",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T13:52:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "file2.s21",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file2.s21",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file2.s21",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file2.s21",
+              "RelativeToolTip": "base_test_programs_2025\\file2.s21",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T14:32:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "file1.s21",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.s21",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file1.s21",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\base_test_programs_2025\\file1.s21",
+              "RelativeToolTip": "base_test_programs_2025\\file1.s21",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T13:43:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "syntax_one.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "ViewState": "AgIAAKACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T12:35:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main_spirit.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\main_spirit.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF_nonpacked__2025\\main_spirit.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\main_spirit.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF_nonpacked__2025\\main_spirit.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T12:35:49.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NPDA_UNICODE.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\NPDA_UNICODE.txt",
+              "RelativeDocumentMoniker": "built_doc\\NPDA_UNICODE.txt",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\NPDA_UNICODE.txt",
+              "RelativeToolTip": "built_doc\\NPDA_UNICODE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-02T12:32:16.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NPDA_ANSI.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\NPDA_ANSI.txt",
+              "RelativeDocumentMoniker": "built_doc\\NPDA_ANSI.txt",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\NPDA_ANSI.txt",
+              "RelativeToolTip": "built_doc\\NPDA_ANSI.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-02T12:32:13.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Grammar_UNICODE.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\Grammar_UNICODE.txt",
+              "RelativeDocumentMoniker": "built_doc\\Grammar_UNICODE.txt",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\Grammar_UNICODE.txt",
+              "RelativeToolTip": "built_doc\\Grammar_UNICODE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-02T12:32:10.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grammar_ANSI.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\Grammar_ANSI.txt",
+              "RelativeDocumentMoniker": "built_doc\\Grammar_ANSI.txt",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\built_doc\\Grammar_ANSI.txt",
+              "RelativeToolTip": "built_doc\\Grammar_ANSI.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-02T12:32:02.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dpda1_for_ll2_generator__2025.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.cpp",
+              "RelativeDocumentMoniker": "dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.cpp",
+              "RelativeToolTip": "dpda1_for_ll2_generator__2025\\dpda1_for_ll2_generator__2025.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T12:31:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EBNF_N1.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\variant_specification\\EBNF_N1.h",
+              "RelativeDocumentMoniker": "variant_specification\\EBNF_N1.h",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\variant_specification\\EBNF_N1.h",
+              "RelativeToolTip": "variant_specification\\EBNF_N1.h",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAuwGYBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-02T12:28:17.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LexicaByRegExAndSyntaxByLL2protototype.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\variant_specification\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "RelativeDocumentMoniker": "variant_specification\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\variant_specification\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "RelativeToolTip": "variant_specification\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAuwBkCAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-02T12:22:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "syntax_one.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T12:15:38.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "one_file__x86_Debug.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T12:15:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dfa_generator___part_impl.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "RelativeDocumentMoniker": "dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "RelativeToolTip": "dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAswIsBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T16:16:24.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Graphviz-14.0.5-win32--link.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "RelativeDocumentMoniker": "dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\12_12_2025__new_sln_cw_sp2__2025_2026\\12_12_2025__new_sln_cw_sp2__2025_2026\\dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "RelativeToolTip": "dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-30T16:08:34.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

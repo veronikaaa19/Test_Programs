@@ -1,0 +1,11 @@
+﻿  main.c
+  one_file__x86_Debug.cpp
+C:\Users\Nazar\source\repos\cw_spirit\cw_spirit\boost\spirit\include\phoenix.hpp(12): message : This header is deprecated. Use <boost/phoenix.hpp> instead.
+  syntax_one.cpp
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF__2025\syntax_one.cpp(35,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF__2025\syntax_one.cpp(658,24): warning C4244: 'argument': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF__2025\syntax_one.cpp(725,47): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF__2025\syntax_one.cpp(752,47): warning C4018: '<=': signed/unsigned mismatch
+  wrapper.cpp
+  Generating Code...
+  verify_syntax_by_EBNF__2025.vcxproj -> C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\Debug\verify_syntax_by_EBNF__2025.exe

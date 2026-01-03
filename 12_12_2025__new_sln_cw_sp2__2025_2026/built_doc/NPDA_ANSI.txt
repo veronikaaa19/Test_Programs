@@ -1,0 +1,46 @@
+D(q,"",labeled_point) -> {(q, ident : )}
+D(q,"",goto_label) -> {(q, Goto ident )}
+D(q,"",program_name) -> {(q, ident )}
+D(q,"",value_type) -> {(q, Int16_t )}
+D(q,"",array_specify) -> {(q, [ unsigned_value ] )}
+D(q,"",declaration_element) -> {(q, ident array_specify__optional )}
+D(q,"",array_specify__optional) -> {(q, array_specify ),(q, "" )}
+D(q,"",other_declaration_ident) -> {(q, , declaration_element )}
+D(q,"",declaration) -> {(q, value_type declaration_element other_declaration_ident__iteration )}
+D(q,"",other_declaration_ident__iteration) -> {(q, other_declaration_ident other_declaration_ident__iteration ),(q, "" )}
+D(q,"",index_action) -> {(q, [ expression ] )}
+D(q,"",unary_operator) -> {(q, !! )}
+D(q,"",unary_operation) -> {(q, unary_operator expression )}
+D(q,"",binary_operator) -> {(q, && ),(q, || ),(q, Eg ),(q, Ne ),(q, < ),(q, > ),(q, + ),(q, - ),(q, Mul ),(q, Div ),(q, Mod )}
+D(q,"",binary_action) -> {(q, binary_operator expression )}
+D(q,"",left_expression) -> {(q, group_expression ),(q, unary_operation ),(q, value ),(q, value ),(q, ident index_action__optional )}
+D(q,"",index_action__optional) -> {(q, index_action ),(q, "" )}
+D(q,"",expression) -> {(q, left_expression binary_action__iteration )}
+D(q,"",binary_action__iteration) -> {(q, binary_action binary_action__iteration ),(q, "" )}
+D(q,"",group_expression) -> {(q, ( expression ) )}
+D(q,"",expression_or_cond_block__with_optional_assign) -> {(q, expression assign_to_right__optional )}
+D(q,"",assign_to_right) -> {(q, -> ident index_action__optional )}
+D(q,"",assign_to_right__optional) -> {(q, assign_to_right ),(q, "" )}
+D(q,"",if_expression) -> {(q, expression )}
+D(q,"",body_for_true) -> {(q, block_statements )}
+D(q,"",else_if_chain) -> {(q, Else If if_expression body_for_true else_part__optional )}
+D(q,"",body_for_false) -> {(q, Else block_statements )}
+D(q,"",cond_block) -> {(q, If if_expression body_for_true else_part__optional )}
+D(q,"",else_part__optional) -> {(q, else_if_chain ),(q, body_for_false ),(q, "" )}
+D(q,"",input_rule) -> {(q, Input argument_for_input )}
+D(q,"",argument_for_input) -> {(q, ident index_action__optional ),(q, ( ident index_action__optional ) )}
+D(q,"",output_rule) -> {(q, Output expression )}
+D(q,"",statement) -> {(q, labeled_point ),(q, expression_or_cond_block__with_optional_assign ),(q, expression_or_cond_block__with_optional_assign ),(q, goto_label ),(q, input_rule ),(q, output_rule ),(q, cond_block ),(q, ; )}
+D(q,"",statement__iteration) -> {(q, statement statement__iteration ),(q, "" )}
+D(q,"",block_statements) -> {(q, { statement__iteration } )}
+D(q,"",expression__optional) -> {(q, expression ),(q, "" )}
+D(q,"",program_rule) -> {(q, Mainprogram Data declaration__optional ; Start statement__iteration End )}
+D(q,"",declaration__optional) -> {(q, declaration ),(q, "" )}
+D(q,"",value) -> {(q, sign__optional unsigned_value )}
+D(q,"",sign__optional) -> {(q, sign ),(q, "" )}
+D(q,"",sign) -> {(q, sign_plus ),(q, sign_minus )}
+D(q,"",sign_plus) -> {(q, + )}
+D(q,"",sign_minus) -> {(q, - )}
+D(q,"",unsigned_value) -> {(q, unsigned_value_terminal )}
+D(q,"",ident) -> {(q, ident_terminal )}
+D(q,"",program____part1) -> {(q, Mainprogram Data declaration__optional ; Start )}

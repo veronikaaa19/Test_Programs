@@ -1,0 +1,405 @@
+﻿  dpda1_for_ll2_generator__2025.cpp
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(239,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(46,9): warning C4005: 'T_GOTO_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(109,9):
+      see previous definition of 'T_GOTO_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(51,9): warning C4005: 'T_DATA_TYPE_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(25,9):
+      see previous definition of 'T_DATA_TYPE_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(62,9): warning C4005: 'T_BITWISE_NOT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(30,9):
+      see previous definition of 'T_BITWISE_NOT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(66,9): warning C4005: 'T_NOT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(42,9):
+      see previous definition of 'T_NOT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(70,9): warning C4005: 'T_BITWISE_AND_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(34,9):
+      see previous definition of 'T_BITWISE_AND_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(74,9): warning C4005: 'T_AND_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(46,9):
+      see previous definition of 'T_AND_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(78,9): warning C4005: 'T_BITWISE_OR_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(38,9):
+      see previous definition of 'T_BITWISE_OR_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(82,9): warning C4005: 'T_OR_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(50,9):
+      see previous definition of 'T_OR_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(88,9): warning C4005: 'T_EQUAL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(55,9):
+      see previous definition of 'T_EQUAL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(92,9): warning C4005: 'T_NOT_EQUAL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(59,9):
+      see previous definition of 'T_NOT_EQUAL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(114,9): warning C4005: 'T_MUL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(88,9):
+      see previous definition of 'T_MUL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(118,9): warning C4005: 'T_DIV_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(92,9):
+      see previous definition of 'T_DIV_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(122,9): warning C4005: 'T_MOD_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(96,9):
+      see previous definition of 'T_MOD_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(132,9): warning C4005: 'T_LRASSIGN_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(201,9):
+      see previous definition of 'T_LRASSIGN_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(146,9): warning C4005: 'T_ELSE_BLOCK_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(126,9):
+      see previous definition of 'T_ELSE_BLOCK_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(147,9): warning C4005: 'T_ELSE_BLOCK_1': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(127,9):
+      see previous definition of 'T_ELSE_BLOCK_1'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(150,9): warning C4005: 'T_IF_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(114,9):
+      see previous definition of 'T_IF_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(154,9): warning C4005: 'T_ELSE_IF_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(118,9):
+      see previous definition of 'T_ELSE_IF_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(155,9): warning C4005: 'T_ELSE_IF_1': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(119,9):
+      see previous definition of 'T_ELSE_IF_1'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(166,9): warning C4005: 'T_INPUT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(170,9):
+      see previous definition of 'T_INPUT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(170,9): warning C4005: 'T_OUTPUT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(174,9):
+      see previous definition of 'T_OUTPUT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(176,9): warning C4005: 'T_NAME_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(13,9):
+      see previous definition of 'T_NAME_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(181,9): warning C4005: 'T_BODY_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(17,9):
+      see previous definition of 'T_BODY_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(186,9): warning C4005: 'T_DATA_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(21,9):
+      see previous definition of 'T_DATA_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(191,9): warning C4005: 'T_BEGIN_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(206,9):
+      see previous definition of 'T_BEGIN_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(196,9): warning C4005: 'T_END_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(210,9):
+      see previous definition of 'T_END_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(13,9): warning C4005: 'T_NAME_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(176,9):
+      see previous definition of 'T_NAME_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(17,9): warning C4005: 'T_BODY_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(181,9):
+      see previous definition of 'T_BODY_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(21,9): warning C4005: 'T_DATA_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(186,9):
+      see previous definition of 'T_DATA_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(25,9): warning C4005: 'T_DATA_TYPE_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(51,9):
+      see previous definition of 'T_DATA_TYPE_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(30,9): warning C4005: 'T_BITWISE_NOT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(62,9):
+      see previous definition of 'T_BITWISE_NOT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(34,9): warning C4005: 'T_BITWISE_AND_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(70,9):
+      see previous definition of 'T_BITWISE_AND_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(38,9): warning C4005: 'T_BITWISE_OR_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(78,9):
+      see previous definition of 'T_BITWISE_OR_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(42,9): warning C4005: 'T_NOT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(66,9):
+      see previous definition of 'T_NOT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(46,9): warning C4005: 'T_AND_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(74,9):
+      see previous definition of 'T_AND_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(50,9): warning C4005: 'T_OR_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(82,9):
+      see previous definition of 'T_OR_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(55,9): warning C4005: 'T_EQUAL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(88,9):
+      see previous definition of 'T_EQUAL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(59,9): warning C4005: 'T_NOT_EQUAL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(92,9):
+      see previous definition of 'T_NOT_EQUAL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(88,9): warning C4005: 'T_MUL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(114,9):
+      see previous definition of 'T_MUL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(92,9): warning C4005: 'T_DIV_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(118,9):
+      see previous definition of 'T_DIV_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(96,9): warning C4005: 'T_MOD_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(122,9):
+      see previous definition of 'T_MOD_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(109,9): warning C4005: 'T_GOTO_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(46,9):
+      see previous definition of 'T_GOTO_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(114,9): warning C4005: 'T_IF_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(150,9):
+      see previous definition of 'T_IF_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(118,9): warning C4005: 'T_ELSE_IF_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(154,9):
+      see previous definition of 'T_ELSE_IF_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(119,9): warning C4005: 'T_ELSE_IF_1': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(155,9):
+      see previous definition of 'T_ELSE_IF_1'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(126,9): warning C4005: 'T_ELSE_BLOCK_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(146,9):
+      see previous definition of 'T_ELSE_BLOCK_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(127,9): warning C4005: 'T_ELSE_BLOCK_1': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(147,9):
+      see previous definition of 'T_ELSE_BLOCK_1'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(170,9): warning C4005: 'T_INPUT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(166,9):
+      see previous definition of 'T_INPUT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(174,9): warning C4005: 'T_OUTPUT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(170,9):
+      see previous definition of 'T_OUTPUT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(201,9): warning C4005: 'T_LRASSIGN_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(132,9):
+      see previous definition of 'T_LRASSIGN_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(206,9): warning C4005: 'T_BEGIN_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(191,9):
+      see previous definition of 'T_BEGIN_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(210,9): warning C4005: 'T_END_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(196,9):
+      see previous definition of 'T_END_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(239,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(46,9): warning C4005: 'T_GOTO_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(109,9):
+      see previous definition of 'T_GOTO_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(51,9): warning C4005: 'T_DATA_TYPE_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(25,9):
+      see previous definition of 'T_DATA_TYPE_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(62,9): warning C4005: 'T_BITWISE_NOT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(30,9):
+      see previous definition of 'T_BITWISE_NOT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(66,9): warning C4005: 'T_NOT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(42,9):
+      see previous definition of 'T_NOT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(70,9): warning C4005: 'T_BITWISE_AND_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(34,9):
+      see previous definition of 'T_BITWISE_AND_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(74,9): warning C4005: 'T_AND_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(46,9):
+      see previous definition of 'T_AND_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(78,9): warning C4005: 'T_BITWISE_OR_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(38,9):
+      see previous definition of 'T_BITWISE_OR_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(82,9): warning C4005: 'T_OR_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(50,9):
+      see previous definition of 'T_OR_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(88,9): warning C4005: 'T_EQUAL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(55,9):
+      see previous definition of 'T_EQUAL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(92,9): warning C4005: 'T_NOT_EQUAL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(59,9):
+      see previous definition of 'T_NOT_EQUAL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(114,9): warning C4005: 'T_MUL_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(88,9):
+      see previous definition of 'T_MUL_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(118,9): warning C4005: 'T_DIV_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(92,9):
+      see previous definition of 'T_DIV_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(122,9): warning C4005: 'T_MOD_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(96,9):
+      see previous definition of 'T_MOD_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(132,9): warning C4005: 'T_LRASSIGN_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(201,9):
+      see previous definition of 'T_LRASSIGN_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(146,9): warning C4005: 'T_ELSE_BLOCK_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(126,9):
+      see previous definition of 'T_ELSE_BLOCK_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(147,9): warning C4005: 'T_ELSE_BLOCK_1': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(127,9):
+      see previous definition of 'T_ELSE_BLOCK_1'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(150,9): warning C4005: 'T_IF_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(114,9):
+      see previous definition of 'T_IF_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(154,9): warning C4005: 'T_ELSE_IF_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(118,9):
+      see previous definition of 'T_ELSE_IF_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(155,9): warning C4005: 'T_ELSE_IF_1': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(119,9):
+      see previous definition of 'T_ELSE_IF_1'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(166,9): warning C4005: 'T_INPUT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(170,9):
+      see previous definition of 'T_INPUT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(170,9): warning C4005: 'T_OUTPUT_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(174,9):
+      see previous definition of 'T_OUTPUT_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(176,9): warning C4005: 'T_NAME_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(13,9):
+      see previous definition of 'T_NAME_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(181,9): warning C4005: 'T_BODY_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(17,9):
+      see previous definition of 'T_BODY_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(186,9): warning C4005: 'T_DATA_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(21,9):
+      see previous definition of 'T_DATA_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(191,9): warning C4005: 'T_BEGIN_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(206,9):
+      see previous definition of 'T_BEGIN_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(196,9): warning C4005: 'T_END_0': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\config.h(210,9):
+      see previous definition of 'T_END_0'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\lexica\lexica.h(48,9): warning C4005: 'UNEXPEXTED_LEXEME_TYPE': macro redefinition
+  (compiling source file 'dpda1_for_ll2_generator__2025.cpp')
+      C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\cw_sp2__2025_2026\src\include\lexica\lexica.h(44,9):
+      see previous definition of 'UNEXPEXTED_LEXEME_TYPE'
+  
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\dpda1_for_ll2_generator__2025\dpda1_for_ll2_generator__2025.cpp(150,10): warning C4101: 'curr_rhs_buffer_len': unreferenced local variable
+C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\dpda1_for_ll2_generator__2025\dpda1_for_ll2_generator__2025.cpp(238,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  dpda1_for_ll2_generator__2025.vcxproj -> C:\Users\Dell\OneDrive\Робочий стіл\12_12_2025__new_sln_cw_sp2__2025_2026\12_12_2025__new_sln_cw_sp2__2025_2026\x64\Debug\dpda1_for_ll2_generator__2025.exe

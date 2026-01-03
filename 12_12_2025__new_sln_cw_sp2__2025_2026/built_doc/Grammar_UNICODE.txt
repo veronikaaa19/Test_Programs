@@ -1,0 +1,80 @@
+labeled_point → ident :
+goto_label → Goto ident
+program_name → ident
+value_type → Int16_t
+array_specify → [ unsigned_value ]
+declaration_element → ident array_specify__optional
+array_specify__optional → array_specify
+array_specify__optional → ε
+other_declaration_ident → , declaration_element
+declaration → value_type declaration_element other_declaration_ident__iteration
+other_declaration_ident__iteration → other_declaration_ident other_declaration_ident__iteration
+other_declaration_ident__iteration → ε
+index_action → [ expression ]
+unary_operator → !!
+unary_operation → unary_operator expression
+binary_operator → &&
+binary_operator → ||
+binary_operator → Eg
+binary_operator → Ne
+binary_operator → <
+binary_operator → >
+binary_operator → +
+binary_operator → -
+binary_operator → Mul
+binary_operator → Div
+binary_operator → Mod
+binary_action → binary_operator expression
+left_expression → group_expression
+left_expression → unary_operation
+left_expression → value
+left_expression → value
+left_expression → ident index_action__optional
+index_action__optional → index_action
+index_action__optional → ε
+expression → left_expression binary_action__iteration
+binary_action__iteration → binary_action binary_action__iteration
+binary_action__iteration → ε
+group_expression → ( expression )
+expression_or_cond_block__with_optional_assign → expression assign_to_right__optional
+assign_to_right → -> ident index_action__optional
+assign_to_right__optional → assign_to_right
+assign_to_right__optional → ε
+if_expression → expression
+body_for_true → block_statements
+else_if_chain → Else If if_expression body_for_true else_part__optional
+body_for_false → Else block_statements
+cond_block → If if_expression body_for_true else_part__optional
+else_part__optional → else_if_chain
+else_part__optional → body_for_false
+else_part__optional → ε
+input_rule → Input argument_for_input
+argument_for_input → ident index_action__optional
+argument_for_input → ( ident index_action__optional )
+output_rule → Output expression
+statement → labeled_point
+statement → expression_or_cond_block__with_optional_assign
+statement → expression_or_cond_block__with_optional_assign
+statement → goto_label
+statement → input_rule
+statement → output_rule
+statement → cond_block
+statement → ;
+statement__iteration → statement statement__iteration
+statement__iteration → ε
+block_statements → { statement__iteration }
+expression__optional → expression
+expression__optional → ε
+program_rule → Mainprogram Data declaration__optional ; Start statement__iteration End
+declaration__optional → declaration
+declaration__optional → ε
+value → sign__optional unsigned_value
+sign__optional → sign
+sign__optional → ε
+sign → sign_plus
+sign → sign_minus
+sign_plus → +
+sign_minus → -
+unsigned_value → unsigned_value_terminal
+ident → ident_terminal
+program____part1 → Mainprogram Data declaration__optional ; Start
